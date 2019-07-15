@@ -1,0 +1,17 @@
+
+/* Simple styling for admin page*/
+.style-head div {
+    font-weight: bold;
+}
+
+.row {
+    border-bottom: 1px solid #a1a1a1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row div
+{
+    box-sizing: border-box;
+    border-right: 1px solid #a1a1a1;
+}
